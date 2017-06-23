@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+7z archive and website password is: GoodShitCut
+
+
+
+
+NES & FDS:
+
+https://www.iruberleet.org/leetlp/index.php?ID=493DLZmhtS9JKKCrwxR
+
+
+
+
+FAQ:
+
+1. This page can be linked to with https://www.iruberleet.org/leetlp/index.php?ID=957bDZMJ6LZGKVLt35e - Please always link to the files and site with the “leetlp” links as it hides the final URL from bots which may try and block such content as well as strip away browser HTTP refer information from the destination sites so they are unable to determine where visitors are getting the links from as easily. Doing so keeps the links alive longer for everyone!
+
+2. All files are compressed into a 7-zip archive which is completely free format.
+
+3. Some of the packs are spread across more than one file part, your archiving software should be able to handle this automatically. You will however need ALL PARTS downloaded before you can extract any part of them.
+
+4. If you require software to read .7z files, here you go: macOS - https://shrten.me/bK (Keka, free and open source); windows - https://shrten.me/bN (7-Zip, free and open source); For BSD/Linux/*Nix other than macOS you should just use "p7zip" on your system's package manager
+
+5. You are encouraged to share these files and the links with others.
+
+6. You can contact me at privateroot@protonmail.ch - Please use my PGP key ( https://www.iruberleet.org/leetlp/index.php?ID=1142yk6WV5XEqaMJGhp ) to encrypt your email to me and please include your own PGP key in your email so I can encrypt my replies to you.
+
+7. These packs are all stripped down and properly named sets. There are no duplicates of the game with the same names unless they are different games. All of the games are for NTSC unless there is no NTSC copy and only English games are included. All fan translations are included. Homebrew/Ports/Hacks are also included at my own discretion. Some patches, BIOS files, artwork, metadata and flashcart files are included as well.
+
+
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCgAGBQJZTWf7AAoJEMa6j/vPPSoCS2wP/jADqjMGIazyC146MP5MYCmy
+AHi4aDhvHpslmMa7Ey5VNdWF+qrUsfzKqwCJf98jP6yZ98Rs+2wcrzfwhuXO+vh7
+7PDUbnc7KRPevmU2zFIP98o2zySEUZcQe9el1LXsD9ye3VTZ/upWRJLQn4TCdTGw
+UWA1G5qApfPECmvJOOEzgEg2o5j8n7oHXexalnf0gFHzwFyuia351QgDkPR+olU9
+/i8piA3qxG2FjcpPKsBEHAiE/LwYVzdLah5fvJQZGFfjawV6LodCr/WwfeoaDaC6
+lxYeunqLUCDjdBvSBE8/MO4l3PBdczo0xGdRBK5Sqfi+1dXGcq/w2aHG5lThP6I0
+zGwHaYfpnbsgT43OsDEPgh6EkhmcIZA2WpVvtlPa4KmoiCmH4oulUt2veG3efpDT
+FYl8Q5Wv4E5ZH2UbMYNoX+fcmHuEcHwGac06aKKVs485rsOULFr/2cNbW3kui2Zn
+c66RZ5ZKuv1DhdwJlZy1j4KGReWC1PCDC4JUOXPl1TO9lhns1uCK18gRDA1oZfbP
+5cA8m3epGMT996kn1EprxNQWRltsx6743iGTcd5+fFC4Fkan5rg6Sx0QossqkYsa
+eqENKfjIVHYKjo7/mvllsBE3vqblQ4SrK3lBM1w8volWsczRNGg77FG3KjNhnMEf
+Xbaflj8bdNB3cdSRdQzi
+=ndK9
+-----END PGP SIGNATURE-----
