@@ -1,0 +1,61 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+7z archive and website password is: GoodShitCut
+
+
+
+
+NES & FDS:
+
+https://www.iruberleet.org/leetlp/index.php?ID=493DLZmhtS9JKKCrwxR
+
+Sega Game Gear:
+
+https://www.iruberleet.org/leetlp/index.php?ID=917tij4gkr
+
+SNES & SAT:
+
+https://www.iruberleet.org/leetlp/index.php?ID=71t5u8gjmifhudo
+
+N64:
+
+https://www.iruberleet.org/leetlp/index.php?ID=330yjuhn9350jurei0jm
+
+
+
+
+FAQ:
+
+1. This page can be linked to with https://www.iruberleet.org/leetlp/index.php?ID=957bDZMJ6LZGKVLt35e - Please always link to the files and site with the “leetlp” links as it hides the final URL from bots which may try and block such content as well as strip away browser HTTP refer information from the destination sites so they are unable to determine where visitors are getting the links from as easily. Doing so keeps the links alive longer for everyone!
+
+2. All files are compressed into a 7-zip archive which is completely free format.
+
+3. Some of the packs are spread across more than one file part, your archiving software should be able to handle this automatically. You will however need ALL PARTS downloaded before you can extract any part of them.
+
+4. If you require software to read .7z files, here you go: macOS - https://shrten.me/bK (Keka, free and open source); windows - https://shrten.me/bN (7-Zip, free and open source); For BSD/Linux/*Nix other than macOS you should just use "p7zip" on your system's package manager
+
+5. You are encouraged to share these files and the links with others.
+
+6. You can contact me at privateroot@protonmail.ch - Please use my PGP key ( https://www.iruberleet.org/leetlp/index.php?ID=153130gujevimkz ) to encrypt your email to me and please include your own PGP key in your email so I can encrypt my replies to you.
+
+7. These packs are all stripped down and properly named sets. There are no duplicates of the game with the same names unless they are different games. All of the games are for NTSC unless there is no NTSC copy and only English games are included. All fan translations are included. Homebrew/Ports/Hacks are also included at my own discretion. Some patches, BIOS files, artwork, metadata and flashcart files are included as well.
+
+
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE+GpqDtCntfk0POzXwu36YuJ3N6EFAlnkJVYACgkQwu36YuJ3
+N6EnEA//cXwDV2miPTkr2CdwgoD3nlztLcmt2JGbd1KEmyVHozoUG+5Jw/F2gjCZ
+Wj3Jo0Bkq2esv8k8V1AXZbMcMYagrj2MgjwNuBvWPpRsk74tdHd87YusdXSzdoiZ
+CCoqI7I1E/Yod6L42gKSvuuZ3rDhb6Vu8U40BqwLtgCA1yQ+/AWdoAUzP42VCPfh
+hoOPnQeobznxllCup+supj4zJaJtP0IIyeQszGjpApkMkKzeuu3m8DIjYTPLXqU0
+sELAJ3DKxG6Q/rbDHr7G5/YuRugQr7pV36B9A4ipxOiNabOTFSwwvOp0RzhbfBf1
+iugqSrzYKJ4xxQSf+Ata3s+A9IabzwK7G6VWH/xeUax2/SnUfaJNFBz5gQQ/qguI
+zkrbv34DqszSOG0KfKCmPlj5dXLYXcHsqualPRJwh+N6Mx5yENS6FgkcmS39PDaJ
+QZD3E3ork/0C2IBVP4v5v/EgHmSf9VCFSWQWb6vO1SsPF9HeUV+iX6DptF5XsOo9
+H+YD5fR6lvFCtTfUK+X/ytSBP6JV7MArFj++Vu1o8Viqs5qe0Va/dBwpypFNuN0o
+I4h8gS258Us8ZgZKIT0QZMDW7283nUMUM0M4R3tieCD3KABlUcNwcoTnjNr2gg4o
+Hx0os05DawE/bKOcVIjGaow0aTywJ2QKAl78LySRA84VuIloUkM=
+=MHNL
+-----END PGP SIGNATURE-----
